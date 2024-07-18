@@ -23,3 +23,20 @@ To make changes and apply them:
 
 In case if you would like to make proxy from your own domain to this Documentation - please [Contact Us](https://diplodoc.com/#contact) - we will support you accordingly till appropriate documentation creation. 
 
+
+
+blocks:
+  - type: icons-block
+    size: m
+    title: Присоединяйтесь к сообществу
+    items:
+      - src: https://storage.yandexcloud.net/cloud-www-assets/pages/index-diplodoc/github.svg
+        text: GitHub
+        url: '#'
+      - src: https://storage.yandexcloud.net/cloud-www-assets/pages/index-diplodoc/telegram.svg
+        text: Telegram
+        url: '#'
+      - src: https://storage.yandexcloud.net/cloud-www-assets/pages/index-diplodoc/stackoverflow.svg
+        text: Stack Overflow
+        url: '#'
+animated: false
