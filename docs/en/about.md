@@ -36,15 +36,28 @@ It contains simple structure with couple of pages (this page, another page) and 
 
 Контент, который отобразится по нажатию.
 
-{% endcut %}
+{% list tabs %}
 
-{% cut "Заголовок ката" %}
+- Название таба 1
 
-Контент, который отобразится по нажатию.
+  Текст таба 1.
 
-{% endcut %}
+  * Можно использовать списки.
+  * И **другую** разметку.
+
+- Название таба 2
+
+  Текст таба 2.
+
+{% endlist %}
+
 
 @[youtube](z9VPANd8bnI)
+
+[*ldf]: Разъяснение термина или сокращения с помощью синтаксиса определений.
+Определение термина может включать в себя _базовую_ разметку.
+
+Использование [собак](*idf) в тексте.
 
 Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
 "https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/" 
