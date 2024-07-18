@@ -12,18 +12,3 @@ items:
     include:
       path: sub-section/toc.yaml
       mode: link
-  blocks:
-  - type: icons-block
-    size: m
-    title: Присоединяйтесь к сообществу
-    items:
-      - src: https://storage.yandexcloud.net/cloud-www-assets/pages/index-diplodoc/github.svg
-        text: GitHub
-        url: '#'
-      - src: https://storage.yandexcloud.net/cloud-www-assets/pages/index-diplodoc/telegram.svg
-        text: Telegram
-        url: '#'
-      - src: https://storage.yandexcloud.net/cloud-www-assets/pages/index-diplodoc/stackoverflow.svg
-        text: Stack Overflow
-        url: '#'
-animated: false
