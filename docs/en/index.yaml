@@ -1,10 +1,10 @@
 title: МедКонтрол
 links:
-  - title: About
+  - title: Немного о нас
     href: about.md
-  - title: Diplodoc page on index page
+  - title: Как всё устроено
     href: page.md
-  - title: YFM Structure on index page
+  - title: Для кого делаем
     href: anotherpage.md
-  - title: Sub-section on index page
+  - title: Виды осмотров
     href: sub-section/
