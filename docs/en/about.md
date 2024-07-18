@@ -8,8 +8,43 @@ It contains simple structure with couple of pages (this page, another page) and 
 | Текст       | Текст       |
 | Текст       | Текст       |
 
+{% note info %}
 
-Привет тест 
+Это примечание.
+
+{% endnote %}
+
+{% note tip %}
+
+Это совет.
+
+{% endnote %}
+
+{% note warning %}
+
+Это важная информация.
+
+{% endnote %}
+
+{% note alert %}
+
+Это предупреждение.
+
+{% endnote %}
+
+{% cut "Заголовок ката" %}
+
+Контент, который отобразится по нажатию.
+
+{% endcut %}
+
+{% cut "Заголовок ката" %}
+
+Контент, который отобразится по нажатию.
+
+{% endcut %}
+
+@[youtube](z9VPANd8bnI)
 
 Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
 "https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/" 
