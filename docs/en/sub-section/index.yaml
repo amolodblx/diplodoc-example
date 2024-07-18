@@ -1,4 +1,10 @@
-title: Sub-section Example on index page
+title: Виды осмотров
 links:
-  - title: Content on a page under Sub-section
+  - title: Тестовый
+    href: content.md
+links:
+  - title: Предрейсовый
+    href: content.md
+    links:
+  - title: Послерейсовый
     href: content.md
