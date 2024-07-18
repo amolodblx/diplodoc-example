@@ -1,8 +1,4 @@
-# Basic "About page" 
-
-
-@[youtube](z9VPANd8bnI)
-
+# Немного о нас" 
 
 
 | Заголовок1  | Заголовок2  |
