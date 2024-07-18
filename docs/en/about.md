@@ -1,5 +1,6 @@
 # Basic "About page" 
 
+
 @[youtube](z9VPANd8bnI)
 
 
@@ -9,11 +10,13 @@
 | Текст       | Текст       |
 | Текст       | Текст       |
 
+
 {% note info %}
 
 Это примечание.
 
 {% endnote %}
+
 
 {% note tip %}
 
@@ -21,11 +24,13 @@
 
 {% endnote %}
 
+
 {% note warning %}
 
 Это важная информация.
 
 {% endnote %}
+
 
 {% note alert %}
 
@@ -33,9 +38,11 @@
 
 {% endnote %}
 
+
 {% cut "Заголовок ката" %}
 
 Контент, который отобразится по нажатию.
+
 
 {% list tabs %}
 
