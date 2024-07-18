@@ -55,9 +55,6 @@ It contains simple structure with couple of pages (this page, another page) and 
 @[youtube](z9VPANd8bnI)
 
 
-[*тест]: Юзаем только так @, а не корги
-
-Использование [собак](*тест) в тексте.
 
 Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
 "https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/" 
