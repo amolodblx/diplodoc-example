@@ -2,13 +2,13 @@ title: Documentation Project Template
 name: МедКонтрол
 href: index.yaml
 items: 
-  - name: About
+  - name: О нас
     href: about.md
-  - name: Additional page 
+  - name: Кто мы
     href: page.md
-  - name: Another page 
+  - name: Как всё устроено 
     href: anotherpage.md
-  - name: Sub-Section 
+  - name: Виды осмотров 
     include:
       path: sub-section/toc.yaml
       mode: link
